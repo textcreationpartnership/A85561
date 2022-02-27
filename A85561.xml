@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight at Dublin in Ireland, between the King of Scots army, commanded by the Marq. of Ormond, and the Lord Inchiquin; and the Parliaments army under the conduct of Col. Jones; upon their close beseiging of the city, with twenty thousand horse and foot, since the taking of Tredagh: shewing the mannor, how the L. Inchiquin with a select, stout, and resolute party, fell into the trenches of the Parl. forces, with the number killed and taken; his letter to Col. Jones concerning the Lord Lieut. Cromwell; a new standard, erected and set up, for Charles the II, and the proclaiming of him King of England, Scotland, and Ireland, with all his titles therunto belonging, and Col. Jones his resolution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85561</idno>
+            <idno type="STC">Wing G1635</idno>
+            <idno type="STC">Thomason E566_2</idno>
+            <idno type="STC">ESTC R206177</idno>
+            <idno type="EEBO-CITATION">99865352</idno>
+            <idno type="PROQUEST">99865352</idno>
+            <idno type="VID">117592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117592)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight at Dublin in Ireland, between the King of Scots army, commanded by the Marq. of Ormond, and the Lord Inchiquin; and the Parliaments army under the conduct of Col. Jones; upon their close beseiging of the city, with twenty thousand horse and foot, since the taking of Tredagh: shewing the mannor, how the L. Inchiquin with a select, stout, and resolute party, fell into the trenches of the Parl. forces, with the number killed and taken; his letter to Col. Jones concerning the Lord Lieut. Cromwell; a new standard, erected and set up, for Charles the II, and the proclaiming of him King of England, Scotland, and Ireland, with all his titles therunto belonging, and Col. Jones his resolution.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno MDCXLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117592:1" rendition="simple:additions"/>
+            <p>A GREAT AND BLOVDY FIGHT <hi>AT</hi> DUBLIN in IRELAND, between the King of <hi>Scots</hi> Army, commanded by the Marq. of <hi>Ormond,</hi> and the Lord <hi>Inchiquin;</hi> and the Parliaments Army under the conduct of Col. <hi>Jones;</hi> upon their cloſe beſieging of the City, with twenty thouſand Horſe and Foot, ſince the taking of <hi>Tre<g ref="char:EOLhyphen"/>dagh:</hi> Shewing the manner, how the L. <hi>Inchiquin</hi> with a ſelect, ſtout, and reſolute party, fell into the Trenches of the Parl. forces, with the number killed and taken; his Letter to Col. <hi>Jones</hi> concerning the Lord Lieut. <hi>Cromwell;</hi> a new Stan<g ref="char:EOLhyphen"/>dard, erected and ſet up, for <hi>Charles</hi> the II, and the proclai<g ref="char:EOLhyphen"/>ming of him King of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> with all his Titles therunto belonging, and Col. <hi>Jones</hi> his reſolution.</p>
+            <figure>
+               <figDesc>a town besieged with cannon</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>R.W. Anno</hi> MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117592:2"/>
+            <pb n="1" facs="tcp:117592:2"/>
+            <head>A BLOUDY FIGHT IN IRELAND BETWEEN The King of <hi>Scotlands</hi> Army, and the Parliaments forces, ſince their taking of the ſtrong Gariſons of <hi>Tredagh, Dundalk,</hi> and <hi>Trim,</hi> upon the advance of the M. of <hi>Ormond,</hi> and the Lord <hi>Inchiquin,</hi> with 20000 horſe and foot, for the cloſe beſieging of the City.</head>
+            <opener>
+               <salute>Right Honoured,</salute>
+            </opener>
+            <p>SInce the taking of the three impregnable Garriſons of <hi>Tredagh, Dundalk,</hi> and <hi>Trim,</hi> the Enemy hath exceed<g ref="char:EOLhyphen"/>ingly ſtreightned us, and have now gained more then e<g ref="char:EOLhyphen"/>ver
+<pb n="2" facs="tcp:117592:3"/> they loſt before, having incamped themſelves within half a mile of the City, and many of their Out-works and trenches are leſſe then musket ſhot of our walls: The la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> night about 10 of the clock they allarm'd us, our Governor and the Captains of the Guards were ſoon in a readineſſe to receive them, and gave them a great volley<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; inſomuch that we received ſome reſpite of eaſe, till two in the morning; at which time, the Lord <hi>Inchiquin</hi> (with a ſelect party of horſe and foot of his own Brigade) gave us a viſit and very deſperately and reſolutely fell upon our man in ſome th the Out-works, who being overpowr'd, were forced to quit the reſpective places, and make their retreat to the next place of ſanctuary, but not without loſſe; for by their ſudden aſ<g ref="char:EOLhyphen"/>ſault, the poor <hi>Defendants</hi> felt the terrour of their bloud-thirſty Sword, and about 30 ſacrificed their lives in the place; <hi>which action being with great vigour proſecuted, In<g ref="char:EOLhyphen"/>chiquin returned to his Tents, ſinging hallelujah for his try<g ref="char:EOLhyphen"/>umphant ſucceſſe; but we doubt not, but to make our ſcor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s e<g ref="char:EOLhyphen"/>ven, before many dayes are expired.</hi>
+            </p>
+            <p>
+               <hi>The Enemy make their neer approaches to our Line, &amp; threa<g ref="char:EOLhyphen"/>ten a ſtorm; but its believed, their repulſ the other night at the ſtorming of Patrick Fort, will ſomewhat retard that work; for they were diſorderly beaten off with the loſse of about</hi> 50 <hi>men. The Lord Inchiquin hath ſent a peremptory Letter to our Go<g ref="char:EOLhyphen"/>vernour, intimating, That he heard Crumwell was advancing into that Nation with an Army of Engliſh Rebels, to relieve him; but if he durſt come thither, he ſhould be welcome, and better entertained by his Lordſhip then he was ever, either by England, Wales, or Scotland, &amp;c. Our Governour returned a very mode<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and reſolute anſwer, That as he had vndertaken a Trust, ſo he ſhould be faithfull therein to the laſt moment, whether any forces or none, came for relief of him.</hi>
+            </p>
+            <pb n="3" facs="tcp:117592:3"/>
+            <p>But the thing that our Souldiery are moſt doubtfull and dubious of, it, that they fear the enemy will not give them a field upon the additionall forces landing, but that they wil rather betake themſelves to the Bogs and Woods.</p>
+            <p>And although we cannot but repreſent our ſelves in a ve<g ref="char:EOLhyphen"/>ry ſad condition (without timely relief) yet we cannot but exceedingly rejoyce at the gallantry of faithfull Col. Jones our Governour, under ſuch a ſtate, in this his preſent con<g ref="char:EOLhyphen"/>dition.</p>
+            <p>Since the enemies receipt of the intelligence of the Lord Lieutenant <hi>Crumwels</hi> deſignment for this bleeding City, they have ſomewhat awakened us with ſtronger allarms, and (as we hear) have entred into Proteſtation, <hi>to live and die, stand and fall together, and to fight it out to the laſt man,</hi> and that upon receipt of the foreſaid intelligence, <hi>Ormend</hi> called a Councell of Officers; at the head quarters neer Fingles, the reſult was, whether they ſhould prepare for a ſtorm, be<g ref="char:EOLhyphen"/>fore his Lordſhips landing, or whether they ſhould begir the City, ſtreighten other Gariſons, take in what they could and then randezvouz and draw into a Body, and give him battell at his landing: Upon mature deliberation thereon, it was unanimoſly declared by moſt of that Popiſh and Pre<g ref="char:EOLhyphen"/>laticall faction, That if he ſet footing there they wold fight him; in the mean time they would uſe their utmoſt endea<g ref="char:EOLhyphen"/>vours for the reducing of thoſe Garriſons which the Par<g ref="char:EOLhyphen"/>liament had in poſſeſſion.</p>
+            <p>On Wedneſday morning laſt, a party of the Marq. of Ormonds horſe and foot faced our frontier Guards, kee<g ref="char:EOLhyphen"/>ping a great careering up &amp; down neer the City Wals, and — making ſeverall bold attempts within Piſtol ſhot of our Line, Spurs, and Sconces, which continued for the ſpace of half an hour; till at the laſt Capt, <hi>Cambray</hi> (Com<g ref="char:EOLhyphen"/>mander
+<pb n="4" facs="tcp:117592:4"/> in chief of the new Fort) made a ſalley out with a party of horſe and foot, who placed the Muſquetiers in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obſcure trench, for an Ambuſcado; he himſelf being the Coy, for the calling in and enſnaring of the adverſe party; but upon his firſt advance towards them with his horſe, he found it a Work very full of difficulty, by reaſon that they had uſed the like point of policp: However, he reſolved <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſpute the place, and thereupon divided his horſe (be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g 60 in number) into two parties, he himſelf commanding the one, and Cornet Jackſon the other; Capt. <hi>Cambray</hi> charged the Van of the Enemies Forlorn, Cornet <hi>Juckſon</hi> flanked them, and upon their firſt charge exchanged ground, with the loſſe of three men on both ſides; but upon their preſent wheeling, both parties received each other wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſecond deſperate Onſet, who with great courage &amp; reſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ution kept their ſtations, diſputing the place with great g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lantry; but at laſt our men being over powred (by the coming on of a freſh ſupply of horſe) were forced to e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>race an honou<g ref="char:EOLhyphen"/>rable retreat; the enemy purſued to t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> very turn-pikes, where they were ſoon welcomed by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons of <hi>Mars,</hi> both from the mouth of the Canon and Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quet, at which Vol<g ref="char:EOLhyphen"/>ley, 7 of them were forced to yeeld obedience to the earth, w<hi rend="sup">ch</hi> cauſed the enemy to deſert further diſpute or engage<g ref="char:EOLhyphen"/>ment, leaving dead and wounded upon the place about 17. of our party five ſlain and two wounded.</p>
+            <p>By Letters further from Dublin it is advertized, that the Marq. of <hi>Ormond,</hi> and the L. <hi>Inchiquin</hi> with 20000 Horſe and Foot, have imrenched themſelves (in many places) within Muſquet ſhot of the Walls, and by their ſtrong allarums (being very reſolved, ſince the taking of Tredah) keeps us in continuall action: the laſt night their Pioneers wrought exceeding hard, and raiſed an half Moon within
+<pb n="5" facs="tcp:117592:4"/> musket ſhot of our Out-works, where was placed about 400 musketiers, and four pieces of Ordnance; it was con<g ref="char:EOLhyphen"/>trived very artificially and ſtrong, with a running Trench from their frontier incampings, which ſecures their men from great annoyance of our round ſhot; this morning we ſallyed out upon them, with a reſolution to beat them off from the ſaid Fort; but finding too much oppoſition re<g ref="char:EOLhyphen"/>treated to our Redout, which was within Piſtoll ſhot there<g ref="char:EOLhyphen"/>of; about 4 of the clock ſeverall parties of horſe and foot were drawn forth on both ſides, who engaged each other, and after a ſharp conflict diſputed with grew gallantry the enemy retreated, and having a Reſerve ready at hand our men durſt not embrace the purſuit, but returned Victors with 17 priſoners, &amp; left dead and wounded upon the place about 15 with the loſſe of 14 men, which the enemy in the night time ſet off and buryed.</p>
+            <p>Our Governour is very vigilant, and reſolved not to ſur<g ref="char:EOLhyphen"/>render upon any conditions. By the next I ſhall impare my ſelf more fully. <hi>Dublin</hi> 19. July, 1649.</p>
+            <p>By Letters from <hi>Bristol</hi> it is advertized, that the Inhabi<g ref="char:EOLhyphen"/>tants in thoſe parts ſhew themſelves very forward to pro<g ref="char:EOLhyphen"/>pagate the Work in hand, for the relief of bleeding Dublin, the Citizens having alſo declared a great willingneſſe to ex<g ref="char:EOLhyphen"/>pedite the ſame, and to accommodate and furniſh the Lord Lieutenant with ſuch neceſſaries, as ſhall become inſtru<g ref="char:EOLhyphen"/>mentall for ſo great and faithfull a patriot and true a per<g ref="char:EOLhyphen"/>nage. The Colours of his Life-guard are black and white, and in his ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch not far beyond Windſor, a ſhepheards boy eſpying them, ſaid, <hi>perhaps they might be dy'd redde e<g ref="char:EOLhyphen"/>nough before they returned from thence</hi> who being over-hard he was apprehended, and committed to ſafe cuſtody.</p>
+            <pb n="6" facs="tcp:117592:5"/>
+            <p>Letters from the Navy ſay, that there hath lately have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome diſpute and action between the Parliaments Fleet and the Princes neer Kingſale, and after ſeverall Volleyes, the Parl. Navigators became Victors, and have taken (as is ſaid) the Swallow, and the Black a more Lady, above one hundred priſoners, and about 30 pieces of Ordnance. It is further ſaid, that the <hi>L. Inchiquin</hi> hath proclaimed Prince <hi>Charles</hi> King of <hi>Great Bri tain,</hi> and <hi>Ireland,</hi> with the reſt of the ad<g ref="char:EOLhyphen"/>ditionall Titles thereunto belonging, and hath cauſed a new Standard to be erected, and ſet up againſt <hi>Dublin.</hi>
+            </p>
+            <p>The like (we hear) ſhould have bin done in the Weſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>England where the Royall party in Somerſetſhire, Dorſetſhire, Devonſhire, and Cornwall, had entred into an engagement, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nanimously to riſe (upon a day prefixed) and proclaim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> CHARLES, <hi>Son of the late</hi> KING, <hi>to be</hi> KING CHARLES THE SECOND, <hi>and immediatly to ſet vp his Standard, and proclaim open Wars against the Parliament. This Deſign was to receive all poſſible aſſistanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the young King of Scots forces in the Iſlands of Gerſey Scilley, and other places. But being miraculouſly diſcovered, all meanes (poſſible) are uſed, for the ſeizing and taking into cu<g ref="char:EOLunhyphen"/>ſtody the chief Actors and Contrivers thereof.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>
+               <hi>EXtracted out of the originall Papers, and printed accor<g ref="char:EOLhyphen"/>ding to Order, to be publiſhed without interruption or moleſtation.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
